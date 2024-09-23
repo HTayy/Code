@@ -28,6 +28,8 @@ int main()
         freopen(TASK".out", "w", stdout);
     }
 
+
+    
     return 0;
 }
 
