@@ -28,7 +28,7 @@ int main()
         freopen(TASK".out", "w", stdout);
     }
 
-    
+    //cc
 
     return 0;
 }
